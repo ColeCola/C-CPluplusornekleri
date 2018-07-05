@@ -2,8 +2,6 @@
 //  main.c
 //  C_calismalari
 //
-//  Created by Sait Alay on 5.07.2018.
-//  Copyright © 2018 Sait Alay. All rights reserved.
 //
 /*
 #include <stdio.h>
